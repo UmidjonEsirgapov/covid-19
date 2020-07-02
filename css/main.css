@@ -561,7 +561,7 @@ p {
   }
 }
 @media (max-width: 375px) {
-    .sec-5-item-text-text-1 p {
+  .sec-5-item-text-text-1 p {
     font-size: 10px;
   }
   .sec-5-item-text-text-2 p {
